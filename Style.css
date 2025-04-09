@@ -1,0 +1,27 @@
+body{
+    background-color:lightgreen;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    font-family: monospace;
+    font-size: 150%;
+}
+
+header, footer{background-color:rgb(25, 43, 108);
+    color: blanchedalmond;
+    padding: 20px;
+    text-align: center;
+
+}
+nav a{
+    color:chocolate;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+ }
+ #contacto{padding: 20px;
+
+ }
+ .form{
+    margin: 10px;
+ }
